@@ -1,0 +1,14 @@
+D:\Study\student-testing-system\CourserWork\obj\Debug\net6.0\CourserWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\student-testing-system\CourserWork\obj\Debug\net6.0\CourserWork.AssemblyInfoInputs.cache
+D:\Study\student-testing-system\CourserWork\obj\Debug\net6.0\CourserWork.AssemblyInfo.cs
+D:\Study\student-testing-system\CourserWork\obj\Debug\net6.0\CourserWork.csproj.CoreCompileInputs.cache
+D:\Study\student-testing-system\CourserWork\bin\Debug\net6.0\CourserWork.exe
+D:\Study\student-testing-system\CourserWork\bin\Debug\net6.0\CourserWork.deps.json
+D:\Study\student-testing-system\CourserWork\bin\Debug\net6.0\CourserWork.runtimeconfig.json
+D:\Study\student-testing-system\CourserWork\bin\Debug\net6.0\CourserWork.dll
+D:\Study\student-testing-system\CourserWork\bin\Debug\net6.0\CourserWork.pdb
+D:\Study\student-testing-system\CourserWork\obj\Debug\net6.0\CourserWork.dll
+D:\Study\student-testing-system\CourserWork\obj\Debug\net6.0\refint\CourserWork.dll
+D:\Study\student-testing-system\CourserWork\obj\Debug\net6.0\CourserWork.pdb
+D:\Study\student-testing-system\CourserWork\obj\Debug\net6.0\CourserWork.genruntimeconfig.cache
+D:\Study\student-testing-system\CourserWork\obj\Debug\net6.0\ref\CourserWork.dll
